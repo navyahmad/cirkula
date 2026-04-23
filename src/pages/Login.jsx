@@ -68,7 +68,7 @@ const Login = () => {
         className="w-10 h-10 sm:w-10 sm:h-10 object-contain" 
       />
             </div>
-            <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800">WasteGame</h1>
+            <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800">Cirkula</h1>
           </div>
           <p className="text-sm sm:text-base text-gray-600 max-w-2xl mx-auto px-4">
             Sistem Gamifikasi Pengelolaan Sampah Digital untuk Desa Kepulungan.
